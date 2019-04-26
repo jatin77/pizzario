@@ -295,13 +295,9 @@ header .order-now button i {
 
 .cart-item-input {
   width: 30px;
-  background: var(--black-shade);
-  color: var(--white-shade);
-  text-align: center;
-  border: none;
-  outline: none;
+
   height: 30px;
-  margin: 0 3px;
+
 }
 
 .cart-item-quantity {
